@@ -20,7 +20,7 @@
     Web Development, Virtual Reality,<br> 
     Augmented Reality and Video Game Development.
   </p><br> 
-   <h2 align="center">📫Contact Mail:<br><a href="https://www.gmail.com/antoniogarrido.contacto@gmail.com">antoniogarrido.contacto@gmail.com</a></h2>
+   <h2 align="center">📫Contact Mail:<br><a href="https://antoniogarrido.contacto@gmail.com">antoniogarrido.contacto@gmail.com</a></h2>
    <hr>
 <h3><b>Connect with me:</b></h3>
 <p>
