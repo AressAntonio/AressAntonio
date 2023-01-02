@@ -124,7 +124,7 @@
     <th>Adobe XD</th>
     <th>Figma</th>
     <th>Canva</th>
-    <th>Prestashop<th>
+    <th>Prestashop</th>
     <th>MySQL</th>
   </tr>
   <tr>
@@ -163,9 +163,7 @@
        <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" alt="MySQL" width="80" height="70"/> 
       </a>
     </td>
-  </tr>
- 
- 
+  </tr> 
 </table>
   
 
