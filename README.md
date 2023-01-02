@@ -125,6 +125,7 @@
     <th>Figma</th>
     <th>Canva</th>
     <th>Prestashop<th>
+    <th>MySQL</th>
   </tr>
   <tr>
     <td>
@@ -155,6 +156,11 @@
   <td>
       <a href="https://upload.wikimedia.org/wikipedia/commons/c/c5/Prestashop.svg" target="_blank" rel="noreferrer"> 
        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Prestashop.svg" alt="Prestashop" width="80" height="70"/> 
+      </a>
+    </td>
+    <td>
+      <a href="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" target="_blank" rel="noreferrer"> 
+       <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" alt="MySQL" width="80" height="70"/> 
       </a>
     </td>
   </tr>
