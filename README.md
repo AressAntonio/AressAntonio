@@ -127,6 +127,8 @@
     <th>Prestashop</th>
     <th>MySQL</th>
     <th>MariaDB</th>
+    <th>Git</th>
+    <th>Github Desktop</th>
   </tr>
   <tr>
     <td>
@@ -167,6 +169,16 @@
     <td>
       <a href="https://upload.wikimedia.org/wikipedia/commons/c/ca/MariaDB_colour_logo.svg" target="_blank" rel="noreferrer"> 
        <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/MariaDB_colour_logo.svg" alt="MariaDB" width="80" height="70"/> 
+      </a>
+    </td>
+    <td>
+      <a href="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" target="_blank" rel="noreferrer"> 
+       <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="git" width="80" height="70"/> 
+      </a>
+    </td>
+    <td>
+      <a href="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" target="_blank" rel="noreferrer"> 
+       <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" alt="github-Desktp" width="80" height="70"/> 
       </a>
     </td>
   </tr> 
