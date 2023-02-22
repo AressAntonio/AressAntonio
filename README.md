@@ -25,13 +25,13 @@
 <h3><b>Connect with me:</b></h3>
 <p>
   <hr width="180px">
-  <a href="https://twitter.com/@seratfin" target="blank">
+  <a href="https://twitter.com/seratfin?t=sxJgWFnhMcx0yTlVT5DhFA&s=09 " target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@seratfin" height="30" width="40" />
   </a>
-  <a href="https://www.instagram.com/aressantonio/" target="blank">
+  <a href="https://www.instagram.com/aressantonio/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aressantonio" height="30" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/antonio-garrido-9013b7249" target="blank">
+  <a href="https://www.linkedin.com/in/antonio-garrido-9013b7249" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="Antoni-Garrido" height="30" width="40" />
   </a>
   <a href="https://discord.gg/#8545" target="blank">
