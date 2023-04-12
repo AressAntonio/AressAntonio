@@ -12,15 +12,14 @@
   </ul><br><hr>
   <h3 align="right">🌱 I’m currently learning:</h3>
   <p align="right">
-    Full Stack Web Development at<br>
-    Launch X Innovaccion Virtual Latam.
+    Full Stack Web Development.
   </p><hr><br>
   <h3>💞️ I’m looking to collaborate<br>on projects of:</h3>
   <p>
     Web Development, Virtual Reality,<br> 
     Augmented Reality and Video Game Development.
   </p><br> 
-   <h2 align="center">📫Contact Mail:<br><a href="https://antoniogarrido.contacto@gmail.com">antoniogarrido.contacto@gmail.com</a></h2>
+   <h2 align="center">📫Contact Email:<br><a href="https://antoniogarrido.contacto@gmail.com">antoniogarrido.contacto@gmail.com</a></h2>
    <hr>
 <h3><b>Connect with me:</b></h3>
 <p>
