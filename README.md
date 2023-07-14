@@ -51,7 +51,7 @@
     <th>HTML5</th>
     <th>CSS3</th>
     <th>BOOTSTRAP</th>
-    <th>TS</th>
+    <th>JAVA</th>
     <th>PYTHON</th>
     <th>VS-CODE</th>
   </tr>
@@ -103,18 +103,18 @@
       </a>
     </td>
     <td>
-      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-       <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript" width="38" height="26"/> 
+      <a href="https://docs.oracle.com/en/java/" target="_blank" rel="noreferrer"> 
+       <img src="https://github.com/AressAntonio/AressAntonio/assets/99376135/c01cc743-d50c-45fc-9e1c-7752b51f078a" alt="TypeScript" width="70" height="70"/> 
       </a>
     </td>
     <td>
       <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="43"       height="30"/> 
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="70", height="70"/> 
       </a>
     </td>
     <td>
       <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
-       <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VSCode" width="38" height="26"/> 
+       <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VSCode" width="70" height="70"/> 
       </a>
     </td>
   <tr>
@@ -181,7 +181,20 @@
       </a>
     </td>
   </tr> 
-</table><hr>
+</table><hr><br><br>
+<table align="center">
+   <tr>
+     <h3 align="center"><stong>ONE Oracle Next Education Insignia</stong></h3>
+   </tr>
+  <tr>
+    <td align="center"><img src="https://github.com/AressAntonio/AressAntonio/assets/99376135/3f660335-554c-49c3-8b56-4d52ab9cda02" width=140, height=140></td>
+     <td align="center"><img src="https://github.com/AressAntonio/AressAntonio/assets/99376135/871fc8a7-a554-49fe-b416-a7b4f499095d" width=140, height=140></td>
+  </tr>
+  <tfooter>
+    <td>Insignia del AluraChallenge<br>Proyecto Encriptador de Texto.</td>
+    <td>Insignia del AluraChallenge<br>Proyecto Convertidor de Moneda</td>
+  </tfooter>
+</table>
  
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aressantonio&label=Profile%20views&color=0e75b6&style=flat" alt="aressantonio" /> </p>
 
@@ -195,3 +208,7 @@
 AressAntonio/AressAntonio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+
+![java-icon]()
