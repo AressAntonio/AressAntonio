@@ -183,7 +183,7 @@
       </a>
     </td>
   </tr> 
-</table><hr><br><br>
+</table><hr><br>
 <table align="center">
    <tr>
      <h3 align="center"><stong>ONE Oracle Next Education Insignia</stong></h3>
