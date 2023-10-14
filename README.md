@@ -1,7 +1,8 @@
 
 <h1 align="center">👋 Hi, <p>I’m @AressAntonio<br>(Antonio_Garrido)</p></h1> 
-
-<h3>👀 I’m interested in: <h3>
+<div>
+  <p>
+     <h3>👀 I’m interested in: <h3>
   <ul>
     <li>Web development</li>
     <li>Virtual Reality</li>
@@ -9,11 +10,12 @@
     <li>Video Game Development</li>
     <li>Cyber Security/IT Security</li>
     <li>Ethical Hacking</li>
-  </ul><br><hr>
-  <h3 align="right">🌱 I’m currently learning:</h3>
-  <p align="right">
-    Full Stack Web Development.
-  </p><hr><br>
+  </ul>
+    <h3 align="right">🌱 I’m currently learning: Full Stack Web Development.</h3> 
+  </p> 
+</div>
+
+  <hr><br>
   <h3>💞️ I’m looking to collaborate<br>on projects of:</h3>
   <p>
     Web Development, Virtual Reality,<br> 
@@ -200,32 +202,26 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aressantonio" alt="aressantonio" /></a></p>
 
-# 📊 GitHub Stats: 
-![](https://github-readme-stats.vercel.app/api?username=aressantonio&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=aressantonio&theme=shades-of-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aressantonio&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+ 
+<p align="center">
+  📊 GitHub Stats:<br>
+  <img src="https://github-readme-stats.vercel.app/api?username=aressantonio&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aressantonio&theme=shades-of-purple&hide_border=false" /><br>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aressantonio&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p><hr>
+
+<p align="center">
+  ✍️ Random Dev Quote and 🔝 Top Contributed Repo<br>
+   <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight" />
+   <img src="https://github-contributor-stats.vercel.app/api?username=aressantonio&limit=5&theme=onedark&combine_all_yearly_contributions=true" /><br><br>
+  😂 Random Dev Meme<br>
+  <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+</p>
+ 
+<!--<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>-->
 
 
-  ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
-
-
-  ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=aressantonio&limit=5&theme=onedark&combine_all_yearly_contributions=true)
-
-
-
-  ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
-
----
-
-  [![](https://visitcount.itsvg.in/api?id=aressantonio&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
 
 
