@@ -23,9 +23,9 @@
     Web Development, Virtual Reality,<br> 
     Augmented Reality and Video Game Development.
   </p><br> 
-   <h2 align="center">📫Contact Email:<br><a href="https://antoniogarrido.contacto@gmail.com" rel="noopener noreferrer" target="_blank">antoniogarrido.contacto@gmail.com</a></h2>
+   <h2 align="center">📫Contact Email:<br><a href="mailto:antoniogarrido.contacto@gmail.com" rel="noopener noreferrer" target="_blank">antoniogarrido.contacto@gmail.com</a></h2>
    <h2 align="center">
-     <a href="https://antoniogarrido.contacto@gmail.com" target="_blank" rel="noopener noreferrer">
+     <a href="https://aressantonio.netlify.app/" target="_blank" rel="noopener noreferrer">
        <img src="https://github.com/user-attachments/assets/be3f3ff9-2080-41f7-b7ff-9ebad2b9a9c2" alt="logo-web" loading="lazy"/> My Web_Site
      </a>
    </h2>
